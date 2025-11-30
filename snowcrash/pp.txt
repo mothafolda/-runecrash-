@@ -1,0 +1,16 @@
+333342705394 acct 
+routing 031101279// 1. When the timer is PAUSED: we need to apply the class.
+timePortalElement.classList.add('paused');
+
+// 2. When the timer is RESUMED: we need to remove the class.
+timePortalElement.classList.remove('paused');333342705394 acct 
+routing 031101279// 1. When the timer is PAUSED: we need to apply the class.
+timePortalElement.classList.remove('paused');
+
+// 2. When the timer is RESUMED: we need to remove the class.
+timePortalElement.classList._________('paused');333342705394 acct 
+routing 031101279// 1. When the timer is PAUSED: we need to apply the class.
+timePortalElement.classList._________('paused');
+
+// 2. When the timer is RESUMED: we need to remove the class.
+timePortalElement.classList._________('paused'); 
